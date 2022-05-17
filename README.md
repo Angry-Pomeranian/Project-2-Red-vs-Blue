@@ -1,4 +1,4 @@
-## Unit  README: Red Vs. Blue Team Project 
+## Unit  README: Red Vs. Blue Team Project Prompt and submission guide
 
 ### Unit Description
 
@@ -27,45 +27,6 @@ This week's project will prompt you to apply knowledge of the following skills a
 
 
 </details>
-
-### Lab Environment
-
-<details>
-
-<summary>Click here to view the lab environnement.</summary>
-
-<br>
-
-In this unit, you will be using the Red vs Blue lab environment located in Windows Azure Lab Services. RDP into the Windows RDP host machine using the following credentials:
-
-Username: `azadmin`
-Password: `p4ssw0rd*`
-
-Open the Hyper-V Manager to access the nested machines:
-
-- **ELK machine credentials:** The same ELK setup that you created in Project 1. It holds the Kibana dashboards.
-    - Username: `vagrant`
-    - Password: `vagrant`
-    - IP Address: `192.168.1.100`
-
-- **Kali:** A standard Kali Linux machine for use in the penetration test on Day 1. 
-    - Username: `root`
-    - Password: `toor`
-    - IP Address: `192.168.1.90`
-
-- **Capstone:** Filebeat and Metricbeat are installed and will forward logs to the ELK machine. 
-   - IP Address: `192.168.1.105`
-   - Please note that this VM is in the network solely for the purpose of testing alerts.
-  
-**Next Week's Lab Environment**: At the end of 20.3, we will set up a new Azure Lab Environment for the Forensics unit.  
-
-
-</details>
-
-
-### What to Be Aware Of:
-
-- Throughout Day 2, it is important that you take screen shots of each step they complete. These screen shots will be used in their Day 3 Report.
 
 ### Security+ Domains
 
@@ -102,12 +63,3 @@ Day 2:
 </details>
 
 ---
-
-### Looking Forward 
-
-In the next week, we will cover the specialized field of digital forensics. We will cover a new set of skills and tools that allow us to analyze evidence on digital technology after an security incident or crime occurs.  
-
----
-
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
